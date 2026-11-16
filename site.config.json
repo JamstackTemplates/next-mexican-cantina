@@ -1,0 +1,10 @@
+{
+  "name": "Acme Cantina",
+  "description": "A family-run Mexican cantina on Main Plaza: tacos, platos and bebidas, a daily special, happy hour, opening hours and how to find us.",
+  "domain": "next-mexican-cantina.jamstacks.net",
+  "timeZone": "America/Chicago",
+  "jamstacks": {
+    "siteId": "",
+    "cdnUrl": "https://cdn.jamstacks.net"
+  }
+}

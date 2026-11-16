@@ -1,0 +1,19 @@
+{
+  "name": "Mexican cantina",
+  "description": "A festive, colour-drenched theme for Mexican restaurants and cantinas: a painted menu of tacos, platos and bebidas with heat levels, papel-picado section banners, daily specials, a happy hour that lights up when it's on, opening hours, location and a Jamstacks contact component for group tables, celebrations and catering.",
+  "tech": "next",
+  "type": "mexican",
+  "style": "cantina",
+  "internal": false,
+  "components": [
+    "support-form"
+  ],
+  "configFile": "site.config.json",
+  "screenshots": {
+    "light": "jamstacks/home-light.jpg",
+    "dark": "jamstacks/home-dark.jpg",
+    "theme": {
+      "strategy": "media"
+    }
+  }
+}
