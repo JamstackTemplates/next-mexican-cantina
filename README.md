@@ -4,7 +4,7 @@ A festive, colour-drenched theme for Mexican restaurants and cantinas: a painted
 
 It exports to plain static files, deploys to GitHub Pages (custom domain or `/repository/` path) and works with no backend. The look is *rótulos*, the hand-painted signage of Mexican streets: full-bleed bands of rosa mexicano, verde, añil blue, marigold and terracotta, big sign-painter lettering, and papel picado strung across the page. Light mode is "painted walls at noon" on lime-wash white. Dark mode is "the plaza after dark": night indigo, deepened bands, string lights and flags lit from behind. Both follow the visitor's device unless they pick one with the header toggle.
 
-**Acme Cantina**, its menu, prices, specials, story and contact details are fictitious placeholders. The sample address is a public landmark, Main Plaza in downtown San Antonio (115 N Main Ave, San Antonio, TX 78205), so the map has something real to show. Replace all of them with your own.
+**Cantina Papel Picado**, its menu, prices, specials, story and contact details are fictitious placeholders. The sample address is a public landmark, Main Plaza in downtown San Antonio (115 N Main Ave, San Antonio, TX 78205), so the map has something real to show. Replace all of them with your own.
 
 ## Pages
 
@@ -115,7 +115,7 @@ The footer ends with "with ❤️ [jamstacks.net](https://jamstacks.net)". It's 
 
 ```json
 {
-  "name": "Acme Cantina",
+  "name": "Cantina Papel Picado",
   "description": "A family-run Mexican cantina on Main Plaza: tacos, platos and bebidas, a daily special, happy hour, opening hours and how to find us.",
   "domain": "next-mexican-cantina.jamstacks.net",
   "timeZone": "America/Chicago",
@@ -228,7 +228,7 @@ jamstacks/               optional template publishing metadata and gallery captu
 
 ## Before publishing your website
 
-- Replace Acme Cantina, the address (and its `note`), directions, email, phone, menu, prices, specials, happy hour, story, FAQs and social links with your own details.
+- Replace Cantina Papel Picado, the address (and its `note`), directions, email, phone, menu, prices, specials, happy hour, story, FAQs and social links with your own details.
 - Set your real services and `timeZone` in `site.config.json`. Check the status, happy-hour sign and today's special on the home page at a few times of day.
 - Choose your 4–6 featured dishes and drinks, and check every item's heat and diet tags (especially nuts and gluten).
 - Replace `domain` in `site.config.json` with your own domain (or `""`). Update the site title/description, icon and social preview image.

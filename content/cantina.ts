@@ -96,7 +96,7 @@ const lunch = { label: 'Lunch', opens: '11:00', closes: '15:00' } as const;
 const dinner = { label: 'Dinner', opens: '16:00', closes: '22:00' } as const;
 
 export const cantina: Cantina = {
-  name: 'Acme Cantina',
+  name: 'Cantina Papel Picado',
   tagline: 'Tacos · platos · bebidas · on the plaza',
   introduction:
     'A family-run cantina on Main Plaza. Tortillas pressed to order, salsas made every morning, and a happy hour that brings the whole street in after work.',

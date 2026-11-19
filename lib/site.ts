@@ -1,7 +1,7 @@
 // Public values resolved by lib/config.mjs and substituted by Next.js at build time.
 // No runtime configuration API is needed to render the website.
 export const site = {
-  name: process.env.NEXT_PUBLIC_SITE_NAME ?? 'Acme Cantina',
+  name: process.env.NEXT_PUBLIC_SITE_NAME ?? 'Cantina Papel Picado',
   description: process.env.NEXT_PUBLIC_SITE_DESCRIPTION ?? '',
   domain: process.env.NEXT_PUBLIC_SITE_DOMAIN ?? '',
   /** IANA time zone for opening hours (site.config.json `timeZone`), or '' when not set. */

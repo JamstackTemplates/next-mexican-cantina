@@ -20,7 +20,7 @@ publishing the template.
 | Template ID | `next-mexican-cantina` (`tech` next, `type` mexican, `style` cantina) |
 | Gallery name | Mexican cantina |
 | Gallery description | A festive, colour-drenched theme for Mexican restaurants and cantinas: a painted menu of tacos, platos and bebidas with heat levels, papel-picado section banners, daily specials, a happy hour that lights up when it's on, opening hours, location and a Jamstacks contact component for group tables, celebrations and catering. |
-| Sample business | **Acme Cantina**, a fictitious family-run Mexican restaurant and bar with walk-ins, a happy hour and group tables |
+| Sample business | **Cantina Papel Picado**, a fictitious family-run Mexican restaurant and bar with walk-ins, a happy hour and group tables |
 | Sample address | Main Plaza, 115 N Main Ave, San Antonio, TX 78205 (a public landmark, so the map has something real to show) |
 | Time zone | `America/Chicago` |
 | What visitors want first | Are you open, is it happy hour, and what's on the menu? |
@@ -223,7 +223,7 @@ Create a new Jamstacks website template **`next-mexican-cantina`** in
 **cantina** style. Make it visually stunning and as close as possible to what a real mexican
 owner wants out of the box. Think hand-painted cantina signage: full-bleed bands of saturated painted colour like a lime-washed façade, papel-picado banners strung across the page, and big sign-painter lettering. Daylight on painted walls in light mode, a plaza under string lights in dark mode. The layout is bands and painted boards, not cards.
 
-The sample business is **Acme Cantina**. Its core editable content is: a menu of antojitos, tacos, platos fuertes, postres and bebidas (Spanish name, English description, price, heat level, dietary tags, sold-out flag), a salsa bar, daily specials, happy hour times and deals, and lunch and dinner services.
+The sample business is **Cantina Papel Picado**. Its core editable content is: a menu of antojitos, tacos, platos fuertes, postres and bebidas (Spanish name, English description, price, heat level, dietary tags, sold-out flag), a salsa bar, daily specials, happy hour times and deals, and lunch and dinner services.
 
 ### Working rules
 
